@@ -1,2 +1,2 @@
 # automated-job-checker
-Server to automatically check career websites for new job postings
+Script to automatically check career websites for new job postings
